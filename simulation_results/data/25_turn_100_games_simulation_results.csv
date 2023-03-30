@@ -1,0 +1,2221 @@
+game_id,character,coins,spaces
+1,Mario,0,97
+1,Luigi,0,99
+1,Peach,0,78
+1,Daisy,0,83
+1,Wario,-12,114
+1,Waluigi,-9,112
+1,Yoshi,0,74
+1,Rosalina,10,77
+1,Donkey Kong,15,100
+1,Diddy Kong,12,77
+1,Goomba,16,71
+1,Shy Guy,0,88
+1,Koopa Troopa,0,77
+1,Monty Mole,2,79
+1,Bowser,-18,117
+1,Bowser Jr.,0,84
+1,Boo,-12,117
+1,Hammer Bro.,12,65
+1,Dry Bones,0,90
+1,Pom Pom,0,85
+1,Mario,0,94
+1,Luigi,0,96
+1,Peach,0,80
+1,Daisy,0,83
+1,Wario,-28,66
+1,Waluigi,-27,52
+1,Yoshi,0,88
+1,Rosalina,12,71
+1,Donkey Kong,15,70
+1,Diddy Kong,10,49
+1,Goomba,22,63
+1,Shy Guy,0,84
+1,Koopa Troopa,0,83
+1,Monty Mole,6,79
+1,Bowser,-15,143
+1,Bowser Jr.,0,99
+1,Boo,-14,104
+1,Hammer Bro.,15,60
+1,Dry Bones,0,95
+1,Pom Pom,0,80
+2,Mario,0,87
+2,Luigi,0,85
+2,Peach,0,96
+2,Daisy,0,80
+2,Wario,-18,96
+2,Waluigi,-9,90
+2,Yoshi,0,60
+2,Rosalina,14,75
+2,Donkey Kong,25,30
+2,Diddy Kong,10,91
+2,Goomba,16,69
+2,Shy Guy,0,96
+2,Koopa Troopa,0,57
+2,Monty Mole,8,73
+2,Bowser,-33,75
+2,Bowser Jr.,0,62
+2,Boo,-10,112
+2,Hammer Bro.,3,68
+2,Dry Bones,0,60
+2,Pom Pom,0,60
+3,Mario,0,78
+3,Luigi,0,76
+3,Peach,0,94
+3,Daisy,0,84
+3,Wario,-20,90
+3,Waluigi,-9,98
+3,Yoshi,0,82
+3,Rosalina,16,75
+3,Donkey Kong,30,70
+3,Diddy Kong,12,84
+3,Goomba,20,67
+3,Shy Guy,0,88
+3,Koopa Troopa,0,78
+3,Monty Mole,5,68
+3,Bowser,-27,120
+3,Bowser Jr.,0,106
+3,Boo,-24,77
+3,Hammer Bro.,21,74
+3,Dry Bones,0,85
+3,Pom Pom,0,87
+4,Mario,0,83
+4,Luigi,0,86
+4,Peach,0,82
+4,Daisy,0,81
+4,Wario,-20,90
+4,Waluigi,-15,78
+4,Yoshi,0,87
+4,Rosalina,18,67
+4,Donkey Kong,40,50
+4,Diddy Kong,10,84
+4,Goomba,6,99
+4,Shy Guy,0,84
+4,Koopa Troopa,0,61
+4,Monty Mole,3,96
+4,Bowser,-24,113
+4,Bowser Jr.,0,81
+4,Boo,-12,119
+4,Hammer Bro.,18,51
+4,Dry Bones,0,65
+4,Pom Pom,0,74
+5,Mario,0,97
+5,Luigi,0,97
+5,Peach,0,82
+5,Daisy,0,85
+5,Wario,-18,96
+5,Waluigi,-21,76
+5,Yoshi,0,101
+5,Rosalina,24,64
+5,Donkey Kong,25,90
+5,Diddy Kong,6,126
+5,Goomba,14,79
+5,Shy Guy,0,84
+5,Koopa Troopa,0,88
+5,Monty Mole,2,87
+5,Bowser,-21,145
+5,Bowser Jr.,0,94
+5,Boo,-6,132
+5,Hammer Bro.,24,45
+5,Dry Bones,0,95
+5,Pom Pom,0,108
+6,Mario,0,98
+6,Luigi,0,78
+6,Peach,0,98
+6,Daisy,0,85
+6,Wario,-16,102
+6,Waluigi,-6,79
+6,Yoshi,0,95
+6,Rosalina,14,81
+6,Donkey Kong,20,60
+6,Diddy Kong,6,84
+6,Goomba,22,71
+6,Shy Guy,0,80
+6,Koopa Troopa,0,71
+6,Monty Mole,7,72
+6,Bowser,-27,97
+6,Bowser Jr.,0,121
+6,Boo,-14,114
+6,Hammer Bro.,18,47
+6,Dry Bones,0,90
+6,Pom Pom,0,76
+7,Mario,0,88
+7,Luigi,0,78
+7,Peach,0,86
+7,Daisy,0,88
+7,Wario,-18,96
+7,Waluigi,-21,72
+7,Yoshi,0,100
+7,Rosalina,14,65
+7,Donkey Kong,15,90
+7,Diddy Kong,10,126
+7,Goomba,32,41
+7,Shy Guy,0,88
+7,Koopa Troopa,0,70
+7,Monty Mole,3,91
+7,Bowser,-39,102
+7,Bowser Jr.,0,83
+7,Boo,-14,112
+7,Hammer Bro.,3,64
+7,Dry Bones,0,95
+7,Pom Pom,0,77
+8,Mario,0,86
+8,Luigi,0,98
+8,Peach,0,88
+8,Daisy,0,82
+8,Wario,-26,72
+8,Waluigi,-18,69
+8,Yoshi,0,87
+8,Rosalina,20,60
+8,Donkey Kong,10,90
+8,Diddy Kong,6,77
+8,Goomba,18,74
+8,Shy Guy,0,88
+8,Koopa Troopa,0,79
+8,Monty Mole,3,96
+8,Bowser,-18,110
+8,Bowser Jr.,0,102
+8,Boo,-26,72
+8,Hammer Bro.,18,51
+8,Dry Bones,0,115
+8,Pom Pom,0,84
+9,Mario,0,81
+9,Luigi,0,104
+9,Peach,0,82
+9,Daisy,0,82
+9,Wario,-14,108
+9,Waluigi,-9,92
+9,Yoshi,0,98
+9,Rosalina,4,105
+9,Donkey Kong,15,100
+9,Diddy Kong,8,98
+9,Goomba,20,70
+9,Shy Guy,0,80
+9,Koopa Troopa,0,55
+9,Monty Mole,5,93
+9,Bowser,-12,154
+9,Bowser Jr.,0,91
+9,Boo,-14,104
+9,Hammer Bro.,6,63
+9,Dry Bones,0,90
+9,Pom Pom,0,76
+10,Mario,0,89
+10,Luigi,0,69
+10,Peach,0,98
+10,Daisy,0,83
+10,Wario,-16,102
+10,Waluigi,-15,64
+10,Yoshi,0,89
+10,Rosalina,16,76
+10,Donkey Kong,25,60
+10,Diddy Kong,8,63
+10,Goomba,22,61
+10,Shy Guy,0,84
+10,Koopa Troopa,0,96
+10,Monty Mole,0,114
+10,Bowser,-18,145
+10,Bowser Jr.,0,93
+10,Boo,-14,104
+10,Hammer Bro.,12,57
+10,Dry Bones,0,85
+10,Pom Pom,0,79
+1,Mario,0,92
+1,Luigi,0,101
+1,Peach,0,80
+1,Daisy,0,80
+1,Wario,-16,102
+1,Waluigi,-9,80
+1,Yoshi,0,78
+1,Rosalina,18,75
+1,Donkey Kong,10,100
+1,Diddy Kong,10,98
+1,Goomba,14,77
+1,Shy Guy,0,76
+1,Koopa Troopa,0,91
+1,Monty Mole,4,83
+1,Bowser,-42,73
+1,Bowser Jr.,0,79
+1,Boo,-18,96
+1,Hammer Bro.,12,49
+1,Dry Bones,0,90
+1,Pom Pom,0,102
+2,Mario,0,79
+2,Luigi,0,96
+2,Peach,0,78
+2,Daisy,0,81
+2,Wario,-12,114
+2,Waluigi,-6,111
+2,Yoshi,0,93
+2,Rosalina,16,71
+2,Donkey Kong,10,30
+2,Diddy Kong,10,105
+2,Goomba,14,86
+2,Shy Guy,0,92
+2,Koopa Troopa,0,91
+2,Monty Mole,3,83
+2,Bowser,-15,155
+2,Bowser Jr.,0,65
+2,Boo,-12,117
+2,Hammer Bro.,24,37
+2,Dry Bones,0,75
+2,Pom Pom,0,88
+3,Mario,0,91
+3,Luigi,0,72
+3,Peach,0,96
+3,Daisy,0,84
+3,Wario,-14,108
+3,Waluigi,-9,98
+3,Yoshi,0,98
+3,Rosalina,24,61
+3,Donkey Kong,15,70
+3,Diddy Kong,6,70
+3,Goomba,8,86
+3,Shy Guy,0,96
+3,Koopa Troopa,0,94
+3,Monty Mole,5,70
+3,Bowser,-30,87
+3,Bowser Jr.,0,114
+3,Boo,-18,92
+3,Hammer Bro.,24,29
+3,Dry Bones,0,95
+3,Pom Pom,0,89
+4,Mario,0,101
+4,Luigi,0,84
+4,Peach,0,72
+4,Daisy,0,80
+4,Wario,-16,102
+4,Waluigi,-15,70
+4,Yoshi,0,90
+4,Rosalina,18,69
+4,Donkey Kong,20,80
+4,Diddy Kong,14,84
+4,Goomba,18,80
+4,Shy Guy,0,92
+4,Koopa Troopa,0,55
+4,Monty Mole,4,82
+4,Bowser,-33,88
+4,Bowser Jr.,0,73
+4,Boo,-6,128
+4,Hammer Bro.,21,38
+4,Dry Bones,0,75
+4,Pom Pom,0,93
+5,Mario,0,86
+5,Luigi,0,88
+5,Peach,0,60
+5,Daisy,0,82
+5,Wario,-24,78
+5,Waluigi,-12,99
+5,Yoshi,0,107
+5,Rosalina,12,76
+5,Donkey Kong,20,90
+5,Diddy Kong,14,56
+5,Goomba,14,75
+5,Shy Guy,0,84
+5,Koopa Troopa,0,104
+5,Monty Mole,7,67
+5,Bowser,-24,125
+5,Bowser Jr.,0,87
+5,Boo,-16,109
+5,Hammer Bro.,15,56
+5,Dry Bones,0,70
+5,Pom Pom,0,77
+6,Mario,0,81
+6,Luigi,0,78
+6,Peach,0,90
+6,Daisy,0,87
+6,Wario,-18,96
+6,Waluigi,-6,77
+6,Yoshi,0,77
+6,Rosalina,18,73
+6,Donkey Kong,25,40
+6,Diddy Kong,2,70
+6,Goomba,24,59
+6,Shy Guy,0,88
+6,Koopa Troopa,0,75
+6,Monty Mole,3,88
+6,Bowser,-36,95
+6,Bowser Jr.,0,91
+6,Boo,-14,108
+6,Hammer Bro.,18,43
+6,Dry Bones,0,65
+6,Pom Pom,0,61
+7,Mario,0,89
+7,Luigi,0,69
+7,Peach,0,84
+7,Daisy,0,83
+7,Wario,-20,90
+7,Waluigi,-9,92
+7,Yoshi,0,77
+7,Rosalina,14,66
+7,Donkey Kong,25,110
+7,Diddy Kong,8,91
+7,Goomba,18,77
+7,Shy Guy,0,92
+7,Koopa Troopa,0,63
+7,Monty Mole,6,80
+7,Bowser,-24,91
+7,Bowser Jr.,0,80
+7,Boo,-20,89
+7,Hammer Bro.,12,53
+7,Dry Bones,0,95
+7,Pom Pom,0,83
+8,Mario,0,95
+8,Luigi,0,89
+8,Peach,0,80
+8,Daisy,0,85
+8,Wario,-16,102
+8,Waluigi,-9,80
+8,Yoshi,0,96
+8,Rosalina,18,75
+8,Donkey Kong,5,80
+8,Diddy Kong,2,77
+8,Goomba,22,64
+8,Shy Guy,0,84
+8,Koopa Troopa,0,121
+8,Monty Mole,7,78
+8,Bowser,-39,92
+8,Bowser Jr.,0,95
+8,Boo,-18,96
+8,Hammer Bro.,12,61
+8,Dry Bones,0,95
+8,Pom Pom,0,80
+9,Mario,0,86
+9,Luigi,0,86
+9,Peach,0,78
+9,Daisy,0,85
+9,Wario,-10,120
+9,Waluigi,-12,89
+9,Yoshi,0,106
+9,Rosalina,20,57
+9,Donkey Kong,35,70
+9,Diddy Kong,14,77
+9,Goomba,14,74
+9,Shy Guy,0,88
+9,Koopa Troopa,0,80
+9,Monty Mole,5,82
+9,Bowser,-18,107
+9,Bowser Jr.,0,86
+9,Boo,-8,123
+9,Hammer Bro.,12,45
+9,Dry Bones,0,105
+9,Pom Pom,0,76
+10,Mario,0,78
+10,Luigi,0,103
+10,Peach,0,94
+10,Daisy,0,88
+10,Wario,-14,108
+10,Waluigi,-6,93
+10,Yoshi,0,98
+10,Rosalina,12,86
+10,Donkey Kong,15,100
+10,Diddy Kong,8,84
+10,Goomba,22,66
+10,Shy Guy,0,84
+10,Koopa Troopa,0,92
+10,Monty Mole,4,83
+10,Bowser,-33,82
+10,Bowser Jr.,0,65
+10,Boo,-24,85
+10,Hammer Bro.,18,27
+10,Dry Bones,0,75
+10,Pom Pom,0,81
+11,Mario,0,76
+11,Luigi,0,78
+11,Peach,0,86
+11,Daisy,0,84
+11,Wario,-26,72
+11,Waluigi,-12,79
+11,Yoshi,0,79
+11,Rosalina,20,57
+11,Donkey Kong,25,40
+11,Diddy Kong,10,77
+11,Goomba,16,74
+11,Shy Guy,0,80
+11,Koopa Troopa,0,98
+11,Monty Mole,5,80
+11,Bowser,-18,135
+11,Bowser Jr.,0,97
+11,Boo,-22,86
+11,Hammer Bro.,3,72
+11,Dry Bones,0,75
+11,Pom Pom,0,81
+12,Mario,0,89
+12,Luigi,0,86
+12,Peach,0,92
+12,Daisy,0,82
+12,Wario,-6,132
+12,Waluigi,-9,94
+12,Yoshi,0,78
+12,Rosalina,16,66
+12,Donkey Kong,35,70
+12,Diddy Kong,6,77
+12,Goomba,20,74
+12,Shy Guy,0,88
+12,Koopa Troopa,0,82
+12,Monty Mole,3,86
+12,Bowser,-24,99
+12,Bowser Jr.,0,77
+12,Boo,-14,98
+12,Hammer Bro.,12,37
+12,Dry Bones,0,100
+12,Pom Pom,0,101
+13,Mario,0,84
+13,Luigi,0,90
+13,Peach,0,84
+13,Daisy,0,81
+13,Wario,-18,96
+13,Waluigi,-6,105
+13,Yoshi,0,70
+13,Rosalina,24,53
+13,Donkey Kong,15,30
+13,Diddy Kong,12,112
+13,Goomba,16,76
+13,Shy Guy,0,76
+13,Koopa Troopa,0,100
+13,Monty Mole,8,63
+13,Bowser,-36,84
+13,Bowser Jr.,0,80
+13,Boo,-24,81
+13,Hammer Bro.,12,45
+13,Dry Bones,0,90
+13,Pom Pom,0,83
+14,Mario,0,101
+14,Luigi,0,95
+14,Peach,0,88
+14,Daisy,0,86
+14,Wario,-16,102
+14,Waluigi,-6,93
+14,Yoshi,0,83
+14,Rosalina,12,89
+14,Donkey Kong,20,60
+14,Diddy Kong,2,105
+14,Goomba,22,62
+14,Shy Guy,0,76
+14,Koopa Troopa,0,73
+14,Monty Mole,5,76
+14,Bowser,-27,129
+14,Bowser Jr.,0,83
+14,Boo,-22,84
+14,Hammer Bro.,6,55
+14,Dry Bones,0,90
+14,Pom Pom,0,67
+15,Mario,0,81
+15,Luigi,0,83
+15,Peach,0,78
+15,Daisy,0,85
+15,Wario,-16,102
+15,Waluigi,-27,64
+15,Yoshi,0,83
+15,Rosalina,10,78
+15,Donkey Kong,15,70
+15,Diddy Kong,8,119
+15,Goomba,26,56
+15,Shy Guy,0,72
+15,Koopa Troopa,0,102
+15,Monty Mole,6,70
+15,Bowser,-27,108
+15,Bowser Jr.,0,78
+15,Boo,-12,119
+15,Hammer Bro.,15,56
+15,Dry Bones,0,120
+15,Pom Pom,0,84
+16,Mario,0,92
+16,Luigi,0,78
+16,Peach,0,84
+16,Daisy,0,87
+16,Wario,-22,84
+16,Waluigi,-21,80
+16,Yoshi,0,84
+16,Rosalina,10,104
+16,Donkey Kong,25,100
+16,Diddy Kong,6,91
+16,Goomba,16,77
+16,Shy Guy,0,76
+16,Koopa Troopa,0,63
+16,Monty Mole,3,96
+16,Bowser,-21,129
+16,Bowser Jr.,0,71
+16,Boo,-20,95
+16,Hammer Bro.,3,60
+16,Dry Bones,0,80
+16,Pom Pom,0,80
+17,Mario,0,90
+17,Luigi,0,82
+17,Peach,0,74
+17,Daisy,0,82
+17,Wario,-20,90
+17,Waluigi,-15,90
+17,Yoshi,0,75
+17,Rosalina,18,73
+17,Donkey Kong,15,60
+17,Diddy Kong,16,77
+17,Goomba,18,75
+17,Shy Guy,0,76
+17,Koopa Troopa,0,77
+17,Monty Mole,4,90
+17,Bowser,-24,125
+17,Bowser Jr.,0,78
+17,Boo,-22,86
+17,Hammer Bro.,9,58
+17,Dry Bones,0,100
+17,Pom Pom,0,72
+18,Mario,0,98
+18,Luigi,0,88
+18,Peach,0,84
+18,Daisy,0,81
+18,Wario,-26,72
+18,Waluigi,-9,90
+18,Yoshi,0,69
+18,Rosalina,22,67
+18,Donkey Kong,15,60
+18,Diddy Kong,6,70
+18,Goomba,12,84
+18,Shy Guy,0,92
+18,Koopa Troopa,0,93
+18,Monty Mole,4,76
+18,Bowser,-24,125
+18,Bowser Jr.,0,97
+18,Boo,-16,107
+18,Hammer Bro.,21,50
+18,Dry Bones,0,85
+18,Pom Pom,0,105
+19,Mario,0,96
+19,Luigi,0,78
+19,Peach,0,100
+19,Daisy,0,86
+19,Wario,-12,114
+19,Waluigi,-21,92
+19,Yoshi,0,109
+19,Rosalina,12,83
+19,Donkey Kong,25,90
+19,Diddy Kong,12,77
+19,Goomba,16,71
+19,Shy Guy,0,92
+19,Koopa Troopa,0,77
+19,Monty Mole,2,82
+19,Bowser,-27,105
+19,Bowser Jr.,0,52
+19,Boo,-22,82
+19,Hammer Bro.,21,66
+19,Dry Bones,0,105
+19,Pom Pom,0,85
+20,Mario,0,96
+20,Luigi,0,90
+20,Peach,0,84
+20,Daisy,0,87
+20,Wario,-12,114
+20,Waluigi,-18,75
+20,Yoshi,0,93
+20,Rosalina,24,58
+20,Donkey Kong,35,60
+20,Diddy Kong,8,105
+20,Goomba,18,77
+20,Shy Guy,0,84
+20,Koopa Troopa,0,78
+20,Monty Mole,6,71
+20,Bowser,-27,98
+20,Bowser Jr.,0,90
+20,Boo,-18,96
+20,Hammer Bro.,15,56
+20,Dry Bones,0,95
+20,Pom Pom,0,81
+21,Mario,0,94
+21,Luigi,0,84
+21,Peach,0,82
+21,Daisy,0,85
+21,Wario,-10,120
+21,Waluigi,-18,83
+21,Yoshi,0,94
+21,Rosalina,16,84
+21,Donkey Kong,10,60
+21,Diddy Kong,6,98
+21,Goomba,18,78
+21,Shy Guy,0,84
+21,Koopa Troopa,0,91
+21,Monty Mole,6,71
+21,Bowser,-33,107
+21,Bowser Jr.,0,71
+21,Boo,-10,116
+21,Hammer Bro.,9,62
+21,Dry Bones,0,90
+21,Pom Pom,0,101
+22,Mario,0,89
+22,Luigi,0,84
+22,Peach,0,84
+22,Daisy,0,82
+22,Wario,-8,126
+22,Waluigi,-3,98
+22,Yoshi,0,100
+22,Rosalina,28,69
+22,Donkey Kong,35,90
+22,Diddy Kong,6,84
+22,Goomba,18,65
+22,Shy Guy,0,80
+22,Koopa Troopa,0,91
+22,Monty Mole,5,81
+22,Bowser,-21,124
+22,Bowser Jr.,0,86
+22,Boo,-26,70
+22,Hammer Bro.,15,40
+22,Dry Bones,0,80
+22,Pom Pom,0,84
+23,Mario,0,83
+23,Luigi,0,85
+23,Peach,0,90
+23,Daisy,0,89
+23,Wario,-18,96
+23,Waluigi,-9,88
+23,Yoshi,0,84
+23,Rosalina,14,72
+23,Donkey Kong,15,80
+23,Diddy Kong,10,98
+23,Goomba,26,51
+23,Shy Guy,0,72
+23,Koopa Troopa,0,84
+23,Monty Mole,4,95
+23,Bowser,-27,104
+23,Bowser Jr.,0,103
+23,Boo,-12,117
+23,Hammer Bro.,0,89
+23,Dry Bones,0,70
+23,Pom Pom,0,70
+24,Mario,0,73
+24,Luigi,0,80
+24,Peach,0,80
+24,Daisy,0,79
+24,Wario,-18,96
+24,Waluigi,-6,91
+24,Yoshi,0,89
+24,Rosalina,16,67
+24,Donkey Kong,15,100
+24,Diddy Kong,6,98
+24,Goomba,22,62
+24,Shy Guy,0,76
+24,Koopa Troopa,0,70
+24,Monty Mole,3,91
+24,Bowser,-12,136
+24,Bowser Jr.,0,91
+24,Boo,-14,110
+24,Hammer Bro.,9,46
+24,Dry Bones,0,80
+24,Pom Pom,0,96
+25,Mario,0,92
+25,Luigi,0,100
+25,Peach,0,74
+25,Daisy,0,83
+25,Wario,-26,72
+25,Waluigi,-12,89
+25,Yoshi,0,96
+25,Rosalina,10,88
+25,Donkey Kong,20,90
+25,Diddy Kong,4,91
+25,Goomba,10,91
+25,Shy Guy,0,88
+25,Koopa Troopa,0,101
+25,Monty Mole,7,69
+25,Bowser,-30,103
+25,Bowser Jr.,0,89
+25,Boo,-24,75
+25,Hammer Bro.,9,62
+25,Dry Bones,0,90
+25,Pom Pom,0,74
+26,Mario,0,85
+26,Luigi,0,77
+26,Peach,0,72
+26,Daisy,0,85
+26,Wario,-20,90
+26,Waluigi,-9,110
+26,Yoshi,0,87
+26,Rosalina,10,107
+26,Donkey Kong,40,70
+26,Diddy Kong,12,63
+26,Goomba,20,74
+26,Shy Guy,0,80
+26,Koopa Troopa,0,117
+26,Monty Mole,6,71
+26,Bowser,-9,176
+26,Bowser Jr.,0,86
+26,Boo,-18,92
+26,Hammer Bro.,9,50
+26,Dry Bones,0,60
+26,Pom Pom,0,77
+27,Mario,0,92
+27,Luigi,0,102
+27,Peach,0,96
+27,Daisy,0,84
+27,Wario,-22,84
+27,Waluigi,0,93
+27,Yoshi,0,86
+27,Rosalina,20,54
+27,Donkey Kong,35,50
+27,Diddy Kong,8,84
+27,Goomba,22,62
+27,Shy Guy,0,88
+27,Koopa Troopa,0,99
+27,Monty Mole,5,87
+27,Bowser,-24,139
+27,Bowser Jr.,0,92
+27,Boo,-20,89
+27,Hammer Bro.,15,48
+27,Dry Bones,0,90
+27,Pom Pom,0,87
+28,Mario,0,88
+28,Luigi,0,67
+28,Peach,0,76
+28,Daisy,0,87
+28,Wario,-10,120
+28,Waluigi,-15,74
+28,Yoshi,0,89
+28,Rosalina,14,66
+28,Donkey Kong,15,110
+28,Diddy Kong,4,84
+28,Goomba,8,93
+28,Shy Guy,0,88
+28,Koopa Troopa,0,83
+28,Monty Mole,6,71
+28,Bowser,-18,139
+28,Bowser Jr.,0,94
+28,Boo,-22,88
+28,Hammer Bro.,18,63
+28,Dry Bones,0,70
+28,Pom Pom,0,72
+29,Mario,0,89
+29,Luigi,0,76
+29,Peach,0,88
+29,Daisy,0,88
+29,Wario,-12,114
+29,Waluigi,-15,74
+29,Yoshi,0,84
+29,Rosalina,16,79
+29,Donkey Kong,40,60
+29,Diddy Kong,6,84
+29,Goomba,22,59
+29,Shy Guy,0,88
+29,Koopa Troopa,0,91
+29,Monty Mole,6,83
+29,Bowser,-39,92
+29,Bowser Jr.,0,78
+29,Boo,-20,87
+29,Hammer Bro.,3,64
+29,Dry Bones,0,80
+29,Pom Pom,0,91
+30,Mario,0,86
+30,Luigi,0,110
+30,Peach,0,84
+30,Daisy,0,76
+30,Wario,-16,102
+30,Waluigi,-9,80
+30,Yoshi,0,93
+30,Rosalina,16,61
+30,Donkey Kong,25,80
+30,Diddy Kong,8,91
+30,Goomba,22,57
+30,Shy Guy,0,84
+30,Koopa Troopa,0,62
+30,Monty Mole,4,79
+30,Bowser,-24,121
+30,Bowser Jr.,0,71
+30,Boo,-10,128
+30,Hammer Bro.,15,48
+30,Dry Bones,0,85
+30,Pom Pom,0,75
+31,Mario,0,89
+31,Luigi,0,56
+31,Peach,0,86
+31,Daisy,0,84
+31,Wario,-14,108
+31,Waluigi,-12,95
+31,Yoshi,0,92
+31,Rosalina,22,54
+31,Donkey Kong,15,60
+31,Diddy Kong,6,105
+31,Goomba,14,84
+31,Shy Guy,0,96
+31,Koopa Troopa,0,77
+31,Monty Mole,3,85
+31,Bowser,-18,149
+31,Bowser Jr.,0,59
+31,Boo,-14,112
+31,Hammer Bro.,0,69
+31,Dry Bones,0,95
+31,Pom Pom,0,75
+32,Mario,0,93
+32,Luigi,0,98
+32,Peach,0,66
+32,Daisy,0,82
+32,Wario,-18,96
+32,Waluigi,-12,85
+32,Yoshi,0,89
+32,Rosalina,30,35
+32,Donkey Kong,15,100
+32,Diddy Kong,8,63
+32,Goomba,22,70
+32,Shy Guy,0,76
+32,Koopa Troopa,0,79
+32,Monty Mole,7,74
+32,Bowser,-27,88
+32,Bowser Jr.,0,62
+32,Boo,-16,95
+32,Hammer Bro.,3,80
+32,Dry Bones,0,90
+32,Pom Pom,0,83
+33,Mario,0,92
+33,Luigi,0,78
+33,Peach,0,86
+33,Daisy,0,82
+33,Wario,-16,102
+33,Waluigi,-9,96
+33,Yoshi,0,92
+33,Rosalina,22,67
+33,Donkey Kong,10,110
+33,Diddy Kong,0,112
+33,Goomba,18,74
+33,Shy Guy,0,92
+33,Koopa Troopa,0,76
+33,Monty Mole,3,89
+33,Bowser,-24,121
+33,Bowser Jr.,0,61
+33,Boo,-18,94
+33,Hammer Bro.,9,78
+33,Dry Bones,0,95
+33,Pom Pom,0,75
+34,Mario,0,98
+34,Luigi,0,93
+34,Peach,0,76
+34,Daisy,0,85
+34,Wario,-10,120
+34,Waluigi,-18,89
+34,Yoshi,0,107
+34,Rosalina,20,51
+34,Donkey Kong,25,70
+34,Diddy Kong,6,98
+34,Goomba,14,82
+34,Shy Guy,0,76
+34,Koopa Troopa,0,81
+34,Monty Mole,2,84
+34,Bowser,-30,101
+34,Bowser Jr.,0,73
+34,Boo,-6,126
+34,Hammer Bro.,27,44
+34,Dry Bones,0,75
+34,Pom Pom,0,93
+35,Mario,0,95
+35,Luigi,0,76
+35,Peach,0,84
+35,Daisy,0,81
+35,Wario,-28,66
+35,Waluigi,-3,108
+35,Yoshi,0,95
+35,Rosalina,14,86
+35,Donkey Kong,20,120
+35,Diddy Kong,2,112
+35,Goomba,22,68
+35,Shy Guy,0,72
+35,Koopa Troopa,0,68
+35,Monty Mole,7,66
+35,Bowser,-21,140
+35,Bowser Jr.,0,88
+35,Boo,-22,86
+35,Hammer Bro.,9,62
+35,Dry Bones,0,55
+35,Pom Pom,0,70
+36,Mario,0,73
+36,Luigi,0,89
+36,Peach,0,110
+36,Daisy,0,82
+36,Wario,-16,102
+36,Waluigi,-9,90
+36,Yoshi,0,88
+36,Rosalina,20,60
+36,Donkey Kong,5,90
+36,Diddy Kong,0,112
+36,Goomba,20,65
+36,Shy Guy,0,84
+36,Koopa Troopa,0,67
+36,Monty Mole,4,80
+36,Bowser,-15,154
+36,Bowser Jr.,0,95
+36,Boo,-10,132
+36,Hammer Bro.,9,62
+36,Dry Bones,0,100
+36,Pom Pom,0,78
+37,Mario,0,78
+37,Luigi,0,102
+37,Peach,0,84
+37,Daisy,0,84
+37,Wario,-16,102
+37,Waluigi,-18,61
+37,Yoshi,0,95
+37,Rosalina,18,65
+37,Donkey Kong,15,70
+37,Diddy Kong,8,98
+37,Goomba,16,79
+37,Shy Guy,0,72
+37,Koopa Troopa,0,69
+37,Monty Mole,8,71
+37,Bowser,-24,101
+37,Bowser Jr.,0,98
+37,Boo,-14,112
+37,Hammer Bro.,6,71
+37,Dry Bones,0,95
+37,Pom Pom,0,94
+38,Mario,0,75
+38,Luigi,0,63
+38,Peach,0,78
+38,Daisy,0,82
+38,Wario,-22,84
+38,Waluigi,-6,87
+38,Yoshi,0,66
+38,Rosalina,20,55
+38,Donkey Kong,15,80
+38,Diddy Kong,16,77
+38,Goomba,26,52
+38,Shy Guy,0,84
+38,Koopa Troopa,0,93
+38,Monty Mole,5,93
+38,Bowser,-21,137
+38,Bowser Jr.,0,68
+38,Boo,-24,75
+38,Hammer Bro.,15,52
+38,Dry Bones,0,90
+38,Pom Pom,0,77
+39,Mario,0,76
+39,Luigi,0,75
+39,Peach,0,84
+39,Daisy,0,83
+39,Wario,-14,108
+39,Waluigi,-9,88
+39,Yoshi,0,94
+39,Rosalina,16,69
+39,Donkey Kong,25,60
+39,Diddy Kong,8,70
+39,Goomba,8,92
+39,Shy Guy,0,88
+39,Koopa Troopa,0,99
+39,Monty Mole,7,80
+39,Bowser,-15,137
+39,Bowser Jr.,0,95
+39,Boo,-12,113
+39,Hammer Bro.,6,75
+39,Dry Bones,0,75
+39,Pom Pom,0,77
+40,Mario,0,87
+40,Luigi,0,95
+40,Peach,0,82
+40,Daisy,0,79
+40,Wario,-16,102
+40,Waluigi,-12,93
+40,Yoshi,0,76
+40,Rosalina,22,53
+40,Donkey Kong,10,100
+40,Diddy Kong,4,119
+40,Goomba,20,67
+40,Shy Guy,0,92
+40,Koopa Troopa,0,104
+40,Monty Mole,6,83
+40,Bowser,-42,94
+40,Bowser Jr.,0,73
+40,Boo,-16,101
+40,Hammer Bro.,21,38
+40,Dry Bones,0,90
+40,Pom Pom,0,109
+41,Mario,0,89
+41,Luigi,0,86
+41,Peach,0,84
+41,Daisy,0,87
+41,Wario,-12,114
+41,Waluigi,-9,92
+41,Yoshi,0,82
+41,Rosalina,20,68
+41,Donkey Kong,15,80
+41,Diddy Kong,10,77
+41,Goomba,10,87
+41,Shy Guy,0,84
+41,Koopa Troopa,0,105
+41,Monty Mole,4,71
+41,Bowser,-27,134
+41,Bowser Jr.,0,73
+41,Boo,-10,118
+41,Hammer Bro.,9,50
+41,Dry Bones,0,75
+41,Pom Pom,0,80
+42,Mario,0,72
+42,Luigi,0,92
+42,Peach,0,92
+42,Daisy,0,86
+42,Wario,-12,114
+42,Waluigi,-9,98
+42,Yoshi,0,74
+42,Rosalina,12,89
+42,Donkey Kong,20,80
+42,Diddy Kong,6,91
+42,Goomba,8,97
+42,Shy Guy,0,72
+42,Koopa Troopa,0,100
+42,Monty Mole,5,74
+42,Bowser,-24,126
+42,Bowser Jr.,0,94
+42,Boo,-22,82
+42,Hammer Bro.,6,59
+42,Dry Bones,0,85
+42,Pom Pom,0,70
+43,Mario,0,85
+43,Luigi,0,86
+43,Peach,0,50
+43,Daisy,0,88
+43,Wario,-6,132
+43,Waluigi,-6,105
+43,Yoshi,0,83
+43,Rosalina,18,71
+43,Donkey Kong,15,60
+43,Diddy Kong,12,70
+43,Goomba,10,90
+43,Shy Guy,0,72
+43,Koopa Troopa,0,69
+43,Monty Mole,4,86
+43,Bowser,-15,137
+43,Bowser Jr.,0,86
+43,Boo,-16,109
+43,Hammer Bro.,12,53
+43,Dry Bones,0,80
+43,Pom Pom,0,101
+44,Mario,0,76
+44,Luigi,0,103
+44,Peach,0,72
+44,Daisy,0,84
+44,Wario,-18,96
+44,Waluigi,-18,81
+44,Yoshi,0,86
+44,Rosalina,16,65
+44,Donkey Kong,15,60
+44,Diddy Kong,14,70
+44,Goomba,8,95
+44,Shy Guy,0,76
+44,Koopa Troopa,0,91
+44,Monty Mole,5,85
+44,Bowser,-27,129
+44,Bowser Jr.,0,94
+44,Boo,-10,124
+44,Hammer Bro.,21,58
+44,Dry Bones,0,95
+44,Pom Pom,0,80
+45,Mario,0,93
+45,Luigi,0,73
+45,Peach,0,80
+45,Daisy,0,84
+45,Wario,-14,108
+45,Waluigi,-15,94
+45,Yoshi,0,80
+45,Rosalina,20,72
+45,Donkey Kong,5,90
+45,Diddy Kong,8,56
+45,Goomba,18,80
+45,Shy Guy,0,84
+45,Koopa Troopa,0,70
+45,Monty Mole,0,99
+45,Bowser,-18,129
+45,Bowser Jr.,0,102
+45,Boo,-14,106
+45,Hammer Bro.,6,71
+45,Dry Bones,0,95
+45,Pom Pom,0,98
+46,Mario,0,84
+46,Luigi,0,91
+46,Peach,0,84
+46,Daisy,0,85
+46,Wario,-6,132
+46,Waluigi,-18,87
+46,Yoshi,0,79
+46,Rosalina,16,71
+46,Donkey Kong,25,40
+46,Diddy Kong,12,63
+46,Goomba,16,73
+46,Shy Guy,0,84
+46,Koopa Troopa,0,69
+46,Monty Mole,3,90
+46,Bowser,-12,149
+46,Bowser Jr.,0,108
+46,Boo,-18,100
+46,Hammer Bro.,6,55
+46,Dry Bones,0,100
+46,Pom Pom,0,91
+47,Mario,0,88
+47,Luigi,0,100
+47,Peach,0,66
+47,Daisy,0,85
+47,Wario,-24,78
+47,Waluigi,-15,92
+47,Yoshi,0,104
+47,Rosalina,16,80
+47,Donkey Kong,10,90
+47,Diddy Kong,10,98
+47,Goomba,16,77
+47,Shy Guy,0,80
+47,Koopa Troopa,0,106
+47,Monty Mole,6,60
+47,Bowser,-21,134
+47,Bowser Jr.,0,91
+47,Boo,-14,110
+47,Hammer Bro.,15,44
+47,Dry Bones,0,85
+47,Pom Pom,0,88
+48,Mario,0,84
+48,Luigi,0,100
+48,Peach,0,98
+48,Daisy,0,85
+48,Wario,-16,102
+48,Waluigi,-12,87
+48,Yoshi,0,82
+48,Rosalina,24,65
+48,Donkey Kong,20,70
+48,Diddy Kong,2,105
+48,Goomba,18,67
+48,Shy Guy,0,88
+48,Koopa Troopa,0,105
+48,Monty Mole,4,80
+48,Bowser,-18,127
+48,Bowser Jr.,0,71
+48,Boo,-10,110
+48,Hammer Bro.,15,64
+48,Dry Bones,0,85
+48,Pom Pom,0,73
+49,Mario,0,81
+49,Luigi,0,74
+49,Peach,0,84
+49,Daisy,0,83
+49,Wario,-24,78
+49,Waluigi,-6,111
+49,Yoshi,0,71
+49,Rosalina,12,74
+49,Donkey Kong,35,90
+49,Diddy Kong,12,98
+49,Goomba,8,90
+49,Shy Guy,0,80
+49,Koopa Troopa,0,92
+49,Monty Mole,7,79
+49,Bowser,-30,97
+49,Bowser Jr.,0,71
+49,Boo,-26,78
+49,Hammer Bro.,6,83
+49,Dry Bones,0,80
+49,Pom Pom,0,70
+50,Mario,0,93
+50,Luigi,0,64
+50,Peach,0,84
+50,Daisy,0,82
+50,Wario,-12,114
+50,Waluigi,-3,78
+50,Yoshi,0,92
+50,Rosalina,20,68
+50,Donkey Kong,10,80
+50,Diddy Kong,8,91
+50,Goomba,12,79
+50,Shy Guy,0,92
+50,Koopa Troopa,0,78
+50,Monty Mole,2,88
+50,Bowser,-30,89
+50,Bowser Jr.,0,97
+50,Boo,-16,107
+50,Hammer Bro.,15,40
+50,Dry Bones,0,70
+50,Pom Pom,0,78
+51,Mario,0,75
+51,Luigi,0,95
+51,Peach,0,76
+51,Daisy,0,85
+51,Wario,-10,120
+51,Waluigi,-15,88
+51,Yoshi,0,80
+51,Rosalina,14,74
+51,Donkey Kong,10,100
+51,Diddy Kong,6,63
+51,Goomba,24,58
+51,Shy Guy,0,88
+51,Koopa Troopa,0,52
+51,Monty Mole,8,67
+51,Bowser,-27,114
+51,Bowser Jr.,0,57
+51,Boo,-22,82
+51,Hammer Bro.,12,53
+51,Dry Bones,0,75
+51,Pom Pom,0,65
+52,Mario,0,88
+52,Luigi,0,100
+52,Peach,0,80
+52,Daisy,0,84
+52,Wario,-16,102
+52,Waluigi,-12,91
+52,Yoshi,0,99
+52,Rosalina,12,65
+52,Donkey Kong,30,100
+52,Diddy Kong,6,84
+52,Goomba,18,77
+52,Shy Guy,0,76
+52,Koopa Troopa,0,103
+52,Monty Mole,7,69
+52,Bowser,-9,176
+52,Bowser Jr.,0,84
+52,Boo,-20,95
+52,Hammer Bro.,15,60
+52,Dry Bones,0,80
+52,Pom Pom,0,76
+53,Mario,0,90
+53,Luigi,0,81
+53,Peach,0,84
+53,Daisy,0,84
+53,Wario,-18,96
+53,Waluigi,-12,93
+53,Yoshi,0,100
+53,Rosalina,28,48
+53,Donkey Kong,15,80
+53,Diddy Kong,12,70
+53,Goomba,14,86
+53,Shy Guy,0,84
+53,Koopa Troopa,0,82
+53,Monty Mole,5,74
+53,Bowser,-36,93
+53,Bowser Jr.,0,90
+53,Boo,-28,61
+53,Hammer Bro.,15,44
+53,Dry Bones,0,85
+53,Pom Pom,0,88
+54,Mario,0,91
+54,Luigi,0,99
+54,Peach,0,94
+54,Daisy,0,86
+54,Wario,-12,114
+54,Waluigi,-12,91
+54,Yoshi,0,79
+54,Rosalina,4,100
+54,Donkey Kong,25,110
+54,Diddy Kong,8,42
+54,Goomba,18,71
+54,Shy Guy,0,88
+54,Koopa Troopa,0,75
+54,Monty Mole,8,67
+54,Bowser,-12,156
+54,Bowser Jr.,0,78
+54,Boo,-14,112
+54,Hammer Bro.,15,48
+54,Dry Bones,0,65
+54,Pom Pom,0,72
+55,Mario,0,96
+55,Luigi,0,91
+55,Peach,0,70
+55,Daisy,0,86
+55,Wario,-16,102
+55,Waluigi,-18,89
+55,Yoshi,0,92
+55,Rosalina,14,105
+55,Donkey Kong,20,100
+55,Diddy Kong,6,70
+55,Goomba,16,72
+55,Shy Guy,0,80
+55,Koopa Troopa,0,101
+55,Monty Mole,6,78
+55,Bowser,-15,151
+55,Bowser Jr.,0,77
+55,Boo,-14,104
+55,Hammer Bro.,9,50
+55,Dry Bones,0,90
+55,Pom Pom,0,58
+56,Mario,0,87
+56,Luigi,0,86
+56,Peach,0,82
+56,Daisy,0,88
+56,Wario,-12,114
+56,Waluigi,-18,89
+56,Yoshi,0,107
+56,Rosalina,20,69
+56,Donkey Kong,15,100
+56,Diddy Kong,12,105
+56,Goomba,20,69
+56,Shy Guy,0,92
+56,Koopa Troopa,0,81
+56,Monty Mole,3,91
+56,Bowser,-21,136
+56,Bowser Jr.,0,89
+56,Boo,-20,89
+56,Hammer Bro.,18,59
+56,Dry Bones,0,80
+56,Pom Pom,0,70
+57,Mario,0,77
+57,Luigi,0,85
+57,Peach,0,74
+57,Daisy,0,87
+57,Wario,-22,84
+57,Waluigi,-9,86
+57,Yoshi,0,87
+57,Rosalina,16,75
+57,Donkey Kong,25,50
+57,Diddy Kong,6,84
+57,Goomba,16,73
+57,Shy Guy,0,92
+57,Koopa Troopa,0,81
+57,Monty Mole,4,91
+57,Bowser,-24,115
+57,Bowser Jr.,0,94
+57,Boo,-12,119
+57,Hammer Bro.,12,53
+57,Dry Bones,0,60
+57,Pom Pom,0,73
+58,Mario,0,92
+58,Luigi,0,80
+58,Peach,0,92
+58,Daisy,0,82
+58,Wario,-10,120
+58,Waluigi,-15,96
+58,Yoshi,0,114
+58,Rosalina,12,63
+58,Donkey Kong,35,50
+58,Diddy Kong,8,105
+58,Goomba,20,60
+58,Shy Guy,0,88
+58,Koopa Troopa,0,75
+58,Monty Mole,4,83
+58,Bowser,-24,132
+58,Bowser Jr.,0,81
+58,Boo,-10,118
+58,Hammer Bro.,12,69
+58,Dry Bones,0,95
+58,Pom Pom,0,104
+59,Mario,0,81
+59,Luigi,0,93
+59,Peach,0,84
+59,Daisy,0,81
+59,Wario,-22,84
+59,Waluigi,-21,74
+59,Yoshi,0,81
+59,Rosalina,18,73
+59,Donkey Kong,15,90
+59,Diddy Kong,4,91
+59,Goomba,12,84
+59,Shy Guy,0,92
+59,Koopa Troopa,0,73
+59,Monty Mole,3,93
+59,Bowser,-24,111
+59,Bowser Jr.,0,76
+59,Boo,-24,77
+59,Hammer Bro.,12,53
+59,Dry Bones,0,95
+59,Pom Pom,0,76
+60,Mario,0,96
+60,Luigi,0,79
+60,Peach,0,84
+60,Daisy,0,81
+60,Wario,-12,114
+60,Waluigi,0,101
+60,Yoshi,0,88
+60,Rosalina,22,40
+60,Donkey Kong,15,80
+60,Diddy Kong,6,91
+60,Goomba,22,66
+60,Shy Guy,0,80
+60,Koopa Troopa,0,108
+60,Monty Mole,3,84
+60,Bowser,-18,128
+60,Bowser Jr.,0,88
+60,Boo,-16,111
+60,Hammer Bro.,15,56
+60,Dry Bones,0,90
+60,Pom Pom,0,83
+61,Mario,0,73
+61,Luigi,0,67
+61,Peach,0,100
+61,Daisy,0,84
+61,Wario,-6,132
+61,Waluigi,-15,90
+61,Yoshi,0,86
+61,Rosalina,14,72
+61,Donkey Kong,30,50
+61,Diddy Kong,8,98
+61,Goomba,12,87
+61,Shy Guy,0,84
+61,Koopa Troopa,0,77
+61,Monty Mole,2,89
+61,Bowser,-33,76
+61,Bowser Jr.,0,62
+61,Boo,-16,99
+61,Hammer Bro.,15,52
+61,Dry Bones,0,110
+61,Pom Pom,0,83
+62,Mario,0,80
+62,Luigi,0,102
+62,Peach,0,68
+62,Daisy,0,87
+62,Wario,-20,90
+62,Waluigi,-18,79
+62,Yoshi,0,78
+62,Rosalina,14,80
+62,Donkey Kong,30,70
+62,Diddy Kong,16,63
+62,Goomba,18,75
+62,Shy Guy,0,84
+62,Koopa Troopa,0,83
+62,Monty Mole,5,74
+62,Bowser,-24,108
+62,Bowser Jr.,0,69
+62,Boo,-14,104
+62,Hammer Bro.,21,58
+62,Dry Bones,0,85
+62,Pom Pom,0,80
+63,Mario,0,97
+63,Luigi,0,95
+63,Peach,0,78
+63,Daisy,0,86
+63,Wario,-12,114
+63,Waluigi,-21,78
+63,Yoshi,0,73
+63,Rosalina,18,76
+63,Donkey Kong,15,70
+63,Diddy Kong,10,49
+63,Goomba,12,89
+63,Shy Guy,0,80
+63,Koopa Troopa,0,75
+63,Monty Mole,8,66
+63,Bowser,-21,122
+63,Bowser Jr.,0,81
+63,Boo,-16,107
+63,Hammer Bro.,18,59
+63,Dry Bones,0,85
+63,Pom Pom,0,85
+64,Mario,0,90
+64,Luigi,0,92
+64,Peach,0,86
+64,Daisy,0,81
+64,Wario,-16,102
+64,Waluigi,-12,97
+64,Yoshi,0,103
+64,Rosalina,20,58
+64,Donkey Kong,20,50
+64,Diddy Kong,6,105
+64,Goomba,18,76
+64,Shy Guy,0,84
+64,Koopa Troopa,0,92
+64,Monty Mole,2,88
+64,Bowser,-45,72
+64,Bowser Jr.,0,100
+64,Boo,-16,107
+64,Hammer Bro.,12,57
+64,Dry Bones,0,85
+64,Pom Pom,0,88
+65,Mario,0,83
+65,Luigi,0,113
+65,Peach,0,78
+65,Daisy,0,87
+65,Wario,-14,108
+65,Waluigi,-18,85
+65,Yoshi,0,91
+65,Rosalina,18,64
+65,Donkey Kong,25,70
+65,Diddy Kong,12,84
+65,Goomba,16,78
+65,Shy Guy,0,72
+65,Koopa Troopa,0,72
+65,Monty Mole,8,79
+65,Bowser,-24,124
+65,Bowser Jr.,0,81
+65,Boo,-22,84
+65,Hammer Bro.,6,63
+65,Dry Bones,0,95
+65,Pom Pom,0,77
+66,Mario,0,84
+66,Luigi,0,91
+66,Peach,0,88
+66,Daisy,0,87
+66,Wario,-20,90
+66,Waluigi,-15,102
+66,Yoshi,0,103
+66,Rosalina,20,78
+66,Donkey Kong,25,60
+66,Diddy Kong,6,70
+66,Goomba,16,78
+66,Shy Guy,0,92
+66,Koopa Troopa,0,64
+66,Monty Mole,2,85
+66,Bowser,-30,96
+66,Bowser Jr.,0,70
+66,Boo,-14,108
+66,Hammer Bro.,21,46
+66,Dry Bones,0,100
+66,Pom Pom,0,115
+67,Mario,0,77
+67,Luigi,0,74
+67,Peach,0,70
+67,Daisy,0,87
+67,Wario,-10,120
+67,Waluigi,-24,85
+67,Yoshi,0,89
+67,Rosalina,12,81
+67,Donkey Kong,20,90
+67,Diddy Kong,4,98
+67,Goomba,16,67
+67,Shy Guy,0,96
+67,Koopa Troopa,0,85
+67,Monty Mole,4,82
+67,Bowser,-33,108
+67,Bowser Jr.,0,92
+67,Boo,-22,90
+67,Hammer Bro.,12,69
+67,Dry Bones,0,65
+67,Pom Pom,0,85
+68,Mario,0,102
+68,Luigi,0,61
+68,Peach,0,78
+68,Daisy,0,83
+68,Wario,-16,102
+68,Waluigi,-6,95
+68,Yoshi,0,80
+68,Rosalina,18,69
+68,Donkey Kong,30,50
+68,Diddy Kong,10,105
+68,Goomba,16,74
+68,Shy Guy,0,92
+68,Koopa Troopa,0,83
+68,Monty Mole,5,79
+68,Bowser,-30,109
+68,Bowser Jr.,0,102
+68,Boo,-10,124
+68,Hammer Bro.,12,45
+68,Dry Bones,0,55
+68,Pom Pom,0,93
+69,Mario,0,97
+69,Luigi,0,81
+69,Peach,0,64
+69,Daisy,0,81
+69,Wario,-18,96
+69,Waluigi,-18,83
+69,Yoshi,0,102
+69,Rosalina,24,48
+69,Donkey Kong,30,80
+69,Diddy Kong,6,112
+69,Goomba,8,97
+69,Shy Guy,0,76
+69,Koopa Troopa,0,105
+69,Monty Mole,2,88
+69,Bowser,-27,121
+69,Bowser Jr.,0,92
+69,Boo,-26,72
+69,Hammer Bro.,9,62
+69,Dry Bones,0,85
+69,Pom Pom,0,86
+70,Mario,0,95
+70,Luigi,0,85
+70,Peach,0,76
+70,Daisy,0,80
+70,Wario,-12,114
+70,Waluigi,-9,86
+70,Yoshi,0,78
+70,Rosalina,18,77
+70,Donkey Kong,30,60
+70,Diddy Kong,8,119
+70,Goomba,18,69
+70,Shy Guy,0,92
+70,Koopa Troopa,0,110
+70,Monty Mole,0,90
+70,Bowser,-30,114
+70,Bowser Jr.,0,98
+70,Boo,-20,93
+70,Hammer Bro.,12,73
+70,Dry Bones,0,95
+70,Pom Pom,0,88
+71,Mario,0,92
+71,Luigi,0,90
+71,Peach,0,94
+71,Daisy,0,80
+71,Wario,-18,96
+71,Waluigi,-9,106
+71,Yoshi,0,94
+71,Rosalina,16,75
+71,Donkey Kong,15,90
+71,Diddy Kong,4,119
+71,Goomba,20,70
+71,Shy Guy,0,84
+71,Koopa Troopa,0,88
+71,Monty Mole,7,67
+71,Bowser,-24,132
+71,Bowser Jr.,0,103
+71,Boo,-12,127
+71,Hammer Bro.,12,57
+71,Dry Bones,0,95
+71,Pom Pom,0,79
+72,Mario,0,92
+72,Luigi,0,88
+72,Peach,0,90
+72,Daisy,0,85
+72,Wario,-18,96
+72,Waluigi,-12,101
+72,Yoshi,0,104
+72,Rosalina,20,74
+72,Donkey Kong,15,20
+72,Diddy Kong,6,70
+72,Goomba,12,95
+72,Shy Guy,0,80
+72,Koopa Troopa,0,96
+72,Monty Mole,4,82
+72,Bowser,-15,139
+72,Bowser Jr.,0,85
+72,Boo,-18,96
+72,Hammer Bro.,15,56
+72,Dry Bones,0,65
+72,Pom Pom,0,54
+73,Mario,0,87
+73,Luigi,0,84
+73,Peach,0,86
+73,Daisy,0,83
+73,Wario,-26,72
+73,Waluigi,-12,87
+73,Yoshi,0,73
+73,Rosalina,16,65
+73,Donkey Kong,25,80
+73,Diddy Kong,8,84
+73,Goomba,12,81
+73,Shy Guy,0,92
+73,Koopa Troopa,0,87
+73,Monty Mole,4,90
+73,Bowser,-33,112
+73,Bowser Jr.,0,97
+73,Boo,-18,98
+73,Hammer Bro.,18,31
+73,Dry Bones,0,80
+73,Pom Pom,0,72
+74,Mario,0,102
+74,Luigi,0,79
+74,Peach,0,94
+74,Daisy,0,86
+74,Wario,-18,96
+74,Waluigi,-18,81
+74,Yoshi,0,84
+74,Rosalina,6,95
+74,Donkey Kong,30,110
+74,Diddy Kong,10,70
+74,Goomba,14,78
+74,Shy Guy,0,72
+74,Koopa Troopa,0,87
+74,Monty Mole,4,74
+74,Bowser,-39,74
+74,Bowser Jr.,0,56
+74,Boo,-12,121
+74,Hammer Bro.,6,59
+74,Dry Bones,0,95
+74,Pom Pom,0,94
+75,Mario,0,68
+75,Luigi,0,88
+75,Peach,0,82
+75,Daisy,0,87
+75,Wario,-30,60
+75,Waluigi,-9,92
+75,Yoshi,0,105
+75,Rosalina,12,79
+75,Donkey Kong,25,50
+75,Diddy Kong,8,119
+75,Goomba,22,58
+75,Shy Guy,0,80
+75,Koopa Troopa,0,71
+75,Monty Mole,5,87
+75,Bowser,-36,75
+75,Bowser Jr.,0,88
+75,Boo,-14,108
+75,Hammer Bro.,9,62
+75,Dry Bones,0,90
+75,Pom Pom,0,83
+76,Mario,0,92
+76,Luigi,0,88
+76,Peach,0,98
+76,Daisy,0,82
+76,Wario,-18,96
+76,Waluigi,-15,90
+76,Yoshi,0,103
+76,Rosalina,16,77
+76,Donkey Kong,25,60
+76,Diddy Kong,12,63
+76,Goomba,12,89
+76,Shy Guy,0,80
+76,Koopa Troopa,0,107
+76,Monty Mole,1,112
+76,Bowser,-12,134
+76,Bowser Jr.,0,82
+76,Boo,-24,79
+76,Hammer Bro.,21,50
+76,Dry Bones,0,95
+76,Pom Pom,0,86
+77,Mario,0,81
+77,Luigi,0,75
+77,Peach,0,88
+77,Daisy,0,79
+77,Wario,-10,120
+77,Waluigi,-15,98
+77,Yoshi,0,104
+77,Rosalina,12,96
+77,Donkey Kong,40,60
+77,Diddy Kong,10,70
+77,Goomba,24,57
+77,Shy Guy,0,80
+77,Koopa Troopa,0,73
+77,Monty Mole,5,80
+77,Bowser,-33,95
+77,Bowser Jr.,0,80
+77,Boo,-12,113
+77,Hammer Bro.,9,66
+77,Dry Bones,0,80
+77,Pom Pom,0,57
+78,Mario,0,88
+78,Luigi,0,83
+78,Peach,0,74
+78,Daisy,0,83
+78,Wario,-10,120
+78,Waluigi,-15,86
+78,Yoshi,0,89
+78,Rosalina,14,58
+78,Donkey Kong,20,60
+78,Diddy Kong,2,126
+78,Goomba,22,61
+78,Shy Guy,0,80
+78,Koopa Troopa,0,71
+78,Monty Mole,6,71
+78,Bowser,-27,127
+78,Bowser Jr.,0,62
+78,Boo,-18,98
+78,Hammer Bro.,18,55
+78,Dry Bones,0,90
+78,Pom Pom,0,78
+79,Mario,0,84
+79,Luigi,0,114
+79,Peach,0,90
+79,Daisy,0,83
+79,Wario,-22,84
+79,Waluigi,-12,83
+79,Yoshi,0,73
+79,Rosalina,18,68
+79,Donkey Kong,15,70
+79,Diddy Kong,4,91
+79,Goomba,14,86
+79,Shy Guy,0,52
+79,Koopa Troopa,0,88
+79,Monty Mole,2,89
+79,Bowser,-21,139
+79,Bowser Jr.,0,74
+79,Boo,-18,102
+79,Hammer Bro.,15,48
+79,Dry Bones,0,80
+79,Pom Pom,0,82
+80,Mario,0,84
+80,Luigi,0,109
+80,Peach,0,96
+80,Daisy,0,82
+80,Wario,-18,96
+80,Waluigi,-12,87
+80,Yoshi,0,91
+80,Rosalina,14,60
+80,Donkey Kong,15,70
+80,Diddy Kong,8,112
+80,Goomba,20,71
+80,Shy Guy,0,92
+80,Koopa Troopa,0,97
+80,Monty Mole,6,79
+80,Bowser,-36,87
+80,Bowser Jr.,0,97
+80,Boo,-20,85
+80,Hammer Bro.,15,60
+80,Dry Bones,0,100
+80,Pom Pom,0,93
+81,Mario,0,78
+81,Luigi,0,98
+81,Peach,0,82
+81,Daisy,0,81
+81,Wario,-18,96
+81,Waluigi,0,123
+81,Yoshi,0,82
+81,Rosalina,16,66
+81,Donkey Kong,15,60
+81,Diddy Kong,14,84
+81,Goomba,16,84
+81,Shy Guy,0,84
+81,Koopa Troopa,0,100
+81,Monty Mole,8,74
+81,Bowser,-24,120
+81,Bowser Jr.,0,81
+81,Boo,-18,96
+81,Hammer Bro.,15,68
+81,Dry Bones,0,95
+81,Pom Pom,0,75
+82,Mario,0,93
+82,Luigi,0,79
+82,Peach,0,88
+82,Daisy,0,84
+82,Wario,-10,120
+82,Waluigi,-15,84
+82,Yoshi,0,95
+82,Rosalina,24,75
+82,Donkey Kong,35,100
+82,Diddy Kong,4,105
+82,Goomba,14,83
+82,Shy Guy,0,84
+82,Koopa Troopa,0,54
+82,Monty Mole,6,78
+82,Bowser,-24,115
+82,Bowser Jr.,0,73
+82,Boo,-14,108
+82,Hammer Bro.,12,53
+82,Dry Bones,0,80
+82,Pom Pom,0,89
+83,Mario,0,98
+83,Luigi,0,82
+83,Peach,0,90
+83,Daisy,0,85
+83,Wario,-18,96
+83,Waluigi,-6,87
+83,Yoshi,0,92
+83,Rosalina,22,57
+83,Donkey Kong,35,80
+83,Diddy Kong,6,105
+83,Goomba,12,81
+83,Shy Guy,0,92
+83,Koopa Troopa,0,93
+83,Monty Mole,3,87
+83,Bowser,-33,94
+83,Bowser Jr.,0,59
+83,Boo,-12,113
+83,Hammer Bro.,6,79
+83,Dry Bones,0,85
+83,Pom Pom,0,96
+84,Mario,0,74
+84,Luigi,0,86
+84,Peach,0,66
+84,Daisy,0,85
+84,Wario,-12,114
+84,Waluigi,-9,88
+84,Yoshi,0,83
+84,Rosalina,16,84
+84,Donkey Kong,20,80
+84,Diddy Kong,8,70
+84,Goomba,20,73
+84,Shy Guy,0,76
+84,Koopa Troopa,0,58
+84,Monty Mole,7,67
+84,Bowser,-33,98
+84,Bowser Jr.,0,58
+84,Boo,-22,88
+84,Hammer Bro.,18,51
+84,Dry Bones,0,80
+84,Pom Pom,0,91
+85,Mario,0,76
+85,Luigi,0,103
+85,Peach,0,78
+85,Daisy,0,85
+85,Wario,-20,90
+85,Waluigi,-3,120
+85,Yoshi,0,56
+85,Rosalina,16,74
+85,Donkey Kong,15,60
+85,Diddy Kong,6,98
+85,Goomba,16,73
+85,Shy Guy,0,92
+85,Koopa Troopa,0,96
+85,Monty Mole,7,75
+85,Bowser,-24,134
+85,Bowser Jr.,0,84
+85,Boo,-8,119
+85,Hammer Bro.,15,52
+85,Dry Bones,0,100
+85,Pom Pom,0,79
+86,Mario,0,86
+86,Luigi,0,83
+86,Peach,0,80
+86,Daisy,0,81
+86,Wario,-16,102
+86,Waluigi,-15,74
+86,Yoshi,0,93
+86,Rosalina,20,49
+86,Donkey Kong,20,60
+86,Diddy Kong,10,98
+86,Goomba,16,72
+86,Shy Guy,0,84
+86,Koopa Troopa,0,72
+86,Monty Mole,8,66
+86,Bowser,-27,96
+86,Bowser Jr.,0,61
+86,Boo,-22,84
+86,Hammer Bro.,15,60
+86,Dry Bones,0,80
+86,Pom Pom,0,101
+87,Mario,0,80
+87,Luigi,0,93
+87,Peach,0,78
+87,Daisy,0,85
+87,Wario,-14,108
+87,Waluigi,-12,85
+87,Yoshi,0,94
+87,Rosalina,20,59
+87,Donkey Kong,5,60
+87,Diddy Kong,10,112
+87,Goomba,20,67
+87,Shy Guy,0,84
+87,Koopa Troopa,0,67
+87,Monty Mole,6,71
+87,Bowser,-21,98
+87,Bowser Jr.,0,100
+87,Boo,-14,110
+87,Hammer Bro.,15,48
+87,Dry Bones,0,110
+87,Pom Pom,0,89
+88,Mario,0,94
+88,Luigi,0,64
+88,Peach,0,80
+88,Daisy,0,84
+88,Wario,-10,120
+88,Waluigi,-18,71
+88,Yoshi,0,110
+88,Rosalina,18,56
+88,Donkey Kong,15,50
+88,Diddy Kong,12,70
+88,Goomba,28,52
+88,Shy Guy,0,92
+88,Koopa Troopa,0,89
+88,Monty Mole,1,103
+88,Bowser,-18,152
+88,Bowser Jr.,0,90
+88,Boo,-18,92
+88,Hammer Bro.,3,80
+88,Dry Bones,0,75
+88,Pom Pom,0,73
+89,Mario,0,78
+89,Luigi,0,82
+89,Peach,0,94
+89,Daisy,0,84
+89,Wario,-14,108
+89,Waluigi,-9,86
+89,Yoshi,0,84
+89,Rosalina,12,103
+89,Donkey Kong,25,90
+89,Diddy Kong,10,98
+89,Goomba,18,63
+89,Shy Guy,0,84
+89,Koopa Troopa,0,83
+89,Monty Mole,4,88
+89,Bowser,-30,109
+89,Bowser Jr.,0,134
+89,Boo,-14,100
+89,Hammer Bro.,12,57
+89,Dry Bones,0,85
+89,Pom Pom,0,73
+90,Mario,0,84
+90,Luigi,0,84
+90,Peach,0,88
+90,Daisy,0,86
+90,Wario,-32,54
+90,Waluigi,-21,68
+90,Yoshi,0,76
+90,Rosalina,10,84
+90,Donkey Kong,20,80
+90,Diddy Kong,0,126
+90,Goomba,22,57
+90,Shy Guy,0,88
+90,Koopa Troopa,0,85
+90,Monty Mole,4,87
+90,Bowser,-24,130
+90,Bowser Jr.,0,84
+90,Boo,-16,103
+90,Hammer Bro.,9,50
+90,Dry Bones,0,105
+90,Pom Pom,0,85
+91,Mario,0,97
+91,Luigi,0,98
+91,Peach,0,74
+91,Daisy,0,90
+91,Wario,-16,102
+91,Waluigi,-21,84
+91,Yoshi,0,67
+91,Rosalina,20,70
+91,Donkey Kong,15,70
+91,Diddy Kong,14,63
+91,Goomba,18,77
+91,Shy Guy,0,84
+91,Koopa Troopa,0,71
+91,Monty Mole,4,85
+91,Bowser,-24,123
+91,Bowser Jr.,0,99
+91,Boo,-20,89
+91,Hammer Bro.,27,32
+91,Dry Bones,0,120
+91,Pom Pom,0,85
+92,Mario,0,102
+92,Luigi,0,72
+92,Peach,0,68
+92,Daisy,0,85
+92,Wario,-20,90
+92,Waluigi,-6,109
+92,Yoshi,0,78
+92,Rosalina,18,77
+92,Donkey Kong,20,70
+92,Diddy Kong,8,119
+92,Goomba,12,84
+92,Shy Guy,0,88
+92,Koopa Troopa,0,50
+92,Monty Mole,4,81
+92,Bowser,-18,130
+92,Bowser Jr.,0,100
+92,Boo,-8,131
+92,Hammer Bro.,15,48
+92,Dry Bones,0,80
+92,Pom Pom,0,93
+93,Mario,0,78
+93,Luigi,0,116
+93,Peach,0,72
+93,Daisy,0,82
+93,Wario,-16,102
+93,Waluigi,-15,74
+93,Yoshi,0,71
+93,Rosalina,12,90
+93,Donkey Kong,15,100
+93,Diddy Kong,4,119
+93,Goomba,22,68
+93,Shy Guy,0,76
+93,Koopa Troopa,0,76
+93,Monty Mole,0,111
+93,Bowser,-39,102
+93,Bowser Jr.,0,67
+93,Boo,-8,131
+93,Hammer Bro.,15,48
+93,Dry Bones,0,80
+93,Pom Pom,0,107
+94,Mario,0,86
+94,Luigi,0,81
+94,Peach,0,82
+94,Daisy,0,84
+94,Wario,-12,114
+94,Waluigi,-15,94
+94,Yoshi,0,61
+94,Rosalina,20,63
+94,Donkey Kong,10,100
+94,Diddy Kong,14,56
+94,Goomba,16,71
+94,Shy Guy,0,84
+94,Koopa Troopa,0,62
+94,Monty Mole,4,80
+94,Bowser,-18,130
+94,Bowser Jr.,0,63
+94,Boo,-18,94
+94,Hammer Bro.,21,46
+94,Dry Bones,0,75
+94,Pom Pom,0,101
+95,Mario,0,93
+95,Luigi,0,67
+95,Peach,0,100
+95,Daisy,0,84
+95,Wario,-18,96
+95,Waluigi,-18,81
+95,Yoshi,0,66
+95,Rosalina,24,60
+95,Donkey Kong,10,60
+95,Diddy Kong,6,77
+95,Goomba,12,87
+95,Shy Guy,0,80
+95,Koopa Troopa,0,68
+95,Monty Mole,6,74
+95,Bowser,-33,91
+95,Bowser Jr.,0,116
+95,Boo,-8,129
+95,Hammer Bro.,6,59
+95,Dry Bones,0,100
+95,Pom Pom,0,99
+96,Mario,0,76
+96,Luigi,0,62
+96,Peach,0,74
+96,Daisy,0,82
+96,Wario,-18,96
+96,Waluigi,-6,103
+96,Yoshi,0,75
+96,Rosalina,6,105
+96,Donkey Kong,30,90
+96,Diddy Kong,8,84
+96,Goomba,12,83
+96,Shy Guy,0,72
+96,Koopa Troopa,0,106
+96,Monty Mole,2,89
+96,Bowser,-24,126
+96,Bowser Jr.,0,94
+96,Boo,-20,89
+96,Hammer Bro.,9,66
+96,Dry Bones,0,85
+96,Pom Pom,0,79
+97,Mario,0,83
+97,Luigi,0,64
+97,Peach,0,90
+97,Daisy,0,84
+97,Wario,-14,108
+97,Waluigi,-12,101
+97,Yoshi,0,113
+97,Rosalina,12,71
+97,Donkey Kong,20,100
+97,Diddy Kong,4,77
+97,Goomba,16,71
+97,Shy Guy,0,80
+97,Koopa Troopa,0,89
+97,Monty Mole,3,88
+97,Bowser,-30,100
+97,Bowser Jr.,0,94
+97,Boo,-18,100
+97,Hammer Bro.,15,32
+97,Dry Bones,0,75
+97,Pom Pom,0,109
+98,Mario,0,84
+98,Luigi,0,95
+98,Peach,0,92
+98,Daisy,0,83
+98,Wario,-16,102
+98,Waluigi,-6,89
+98,Yoshi,0,86
+98,Rosalina,18,65
+98,Donkey Kong,25,100
+98,Diddy Kong,8,84
+98,Goomba,12,98
+98,Shy Guy,0,80
+98,Koopa Troopa,0,84
+98,Monty Mole,1,104
+98,Bowser,-18,123
+98,Bowser Jr.,0,105
+98,Boo,-2,150
+98,Hammer Bro.,9,38
+98,Dry Bones,0,100
+98,Pom Pom,0,67
+99,Mario,0,88
+99,Luigi,0,96
+99,Peach,0,74
+99,Daisy,0,83
+99,Wario,-16,102
+99,Waluigi,-27,72
+99,Yoshi,0,96
+99,Rosalina,8,95
+99,Donkey Kong,15,140
+99,Diddy Kong,10,91
+99,Goomba,16,68
+99,Shy Guy,0,76
+99,Koopa Troopa,0,66
+99,Monty Mole,4,84
+99,Bowser,-21,109
+99,Bowser Jr.,0,70
+99,Boo,-18,100
+99,Hammer Bro.,3,76
+99,Dry Bones,0,110
+99,Pom Pom,0,94
+100,Mario,0,85
+100,Luigi,0,76
+100,Peach,0,88
+100,Daisy,0,83
+100,Wario,-18,96
+100,Waluigi,-12,75
+100,Yoshi,0,79
+100,Rosalina,20,68
+100,Donkey Kong,25,60
+100,Diddy Kong,6,91
+100,Goomba,22,71
+100,Shy Guy,0,88
+100,Koopa Troopa,0,107
+100,Monty Mole,5,89
+100,Bowser,-39,67
+100,Bowser Jr.,0,84
+100,Boo,-12,113
+100,Hammer Bro.,6,43
+100,Dry Bones,0,105
+100,Pom Pom,0,61

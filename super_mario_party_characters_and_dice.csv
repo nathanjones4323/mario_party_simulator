@@ -1,0 +1,21 @@
+character,die_side_1,die_side_2,die_side_3,die_side_4,die_side_5,die_side_6
+Mario,1,3,3,3,5,6
+Luigi,1,1,1,5,6,7
+Peach,0,2,4,4,4,6
+Daisy,3,3,3,3,4,4
+Wario,-2c,-2c,6,6,6,6
+Waluigi,-3c,1,3,5,5,7
+Yoshi,0,1,3,5,5,7
+Rosalina,2c,2c,2,3,4,8
+Donkey Kong,5c,0,0,0,10,10
+Diddy Kong,2c,0,0,7,7,7
+Goomba,2c,2c,3,4,5,6
+Shy Guy,0,4,4,4,4,4
+Koopa Troopa,1,1,2,3,3,10
+Monty Mole,1c,2,3,4,5,6
+Bowser,-3c,-3c,1,8,9,10
+Bowser Jr.,1,1,1,4,4,9
+Boo,-2c,-2c,5,5,7,7
+Hammer Bro.,3c,1,1,1,5,5
+Dry Bones,1,1,1,6,6,6
+Pom Pom,0,3,3,3,3,8

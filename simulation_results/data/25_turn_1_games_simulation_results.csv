@@ -1,0 +1,21 @@
+game_id,character,coins,spaces
+1,Mario,0,97
+1,Luigi,0,99
+1,Peach,0,78
+1,Daisy,0,83
+1,Wario,-12,114
+1,Waluigi,-9,112
+1,Yoshi,0,74
+1,Rosalina,10,77
+1,Donkey Kong,15,100
+1,Diddy Kong,12,77
+1,Goomba,16,71
+1,Shy Guy,0,88
+1,Koopa Troopa,0,77
+1,Monty Mole,2,79
+1,Bowser,-18,117
+1,Bowser Jr.,0,84
+1,Boo,-12,117
+1,Hammer Bro.,12,65
+1,Dry Bones,0,90
+1,Pom Pom,0,85

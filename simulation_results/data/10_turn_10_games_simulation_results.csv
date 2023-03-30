@@ -1,0 +1,221 @@
+game_id,character,coins,spaces
+1,Mario,0,26
+1,Luigi,0,41
+1,Peach,0,38
+1,Daisy,0,34
+1,Wario,-8,36
+1,Waluigi,-6,40
+1,Yoshi,0,40
+1,Rosalina,6,32
+1,Donkey Kong,5,30
+1,Diddy Kong,0,49
+1,Goomba,10,23
+1,Shy Guy,0,28
+1,Koopa Troopa,0,31
+1,Monty Mole,1,43
+1,Bowser,-9,46
+1,Bowser Jr.,0,35
+1,Boo,-6,39
+1,Hammer Bro.,12,18
+1,Dry Bones,0,30
+1,Pom Pom,0,26
+1,Mario,0,40
+1,Luigi,0,41
+1,Peach,0,32
+1,Daisy,0,34
+1,Wario,-6,42
+1,Waluigi,-6,38
+1,Yoshi,0,32
+1,Rosalina,8,29
+1,Donkey Kong,10,40
+1,Diddy Kong,4,42
+1,Goomba,12,19
+1,Shy Guy,0,32
+1,Koopa Troopa,0,35
+1,Monty Mole,2,33
+1,Bowser,-12,56
+1,Bowser Jr.,0,33
+1,Boo,-4,44
+1,Hammer Bro.,6,24
+1,Dry Bones,0,40
+1,Pom Pom,0,37
+2,Mario,0,45
+2,Luigi,0,37
+2,Peach,0,40
+2,Daisy,0,34
+2,Wario,-10,30
+2,Waluigi,-6,36
+2,Yoshi,0,41
+2,Rosalina,4,31
+2,Donkey Kong,5,40
+2,Diddy Kong,2,35
+2,Goomba,6,28
+2,Shy Guy,0,36
+2,Koopa Troopa,0,35
+2,Monty Mole,1,42
+2,Bowser,-12,48
+2,Bowser Jr.,0,22
+2,Boo,-10,27
+2,Hammer Bro.,3,41
+2,Dry Bones,0,40
+2,Pom Pom,0,29
+3,Mario,0,36
+3,Luigi,0,24
+3,Peach,0,24
+3,Daisy,0,33
+3,Wario,-12,24
+3,Waluigi,-3,39
+3,Yoshi,0,33
+3,Rosalina,6,31
+3,Donkey Kong,10,30
+3,Diddy Kong,2,42
+3,Goomba,10,20
+3,Shy Guy,0,36
+3,Koopa Troopa,0,27
+3,Monty Mole,4,24
+3,Bowser,-12,37
+3,Bowser Jr.,0,29
+3,Boo,-4,50
+3,Hammer Bro.,0,26
+3,Dry Bones,0,25
+3,Pom Pom,0,34
+4,Mario,0,33
+4,Luigi,0,42
+4,Peach,0,36
+4,Daisy,0,32
+4,Wario,-6,42
+4,Waluigi,-3,47
+4,Yoshi,0,34
+4,Rosalina,4,27
+4,Donkey Kong,5,60
+4,Diddy Kong,2,28
+4,Goomba,8,27
+4,Shy Guy,0,28
+4,Koopa Troopa,0,37
+4,Monty Mole,1,38
+4,Bowser,-12,22
+4,Bowser Jr.,0,40
+4,Boo,-8,38
+4,Hammer Bro.,9,11
+4,Dry Bones,0,25
+4,Pom Pom,0,37
+5,Mario,0,39
+5,Luigi,0,35
+5,Peach,0,38
+5,Daisy,0,34
+5,Wario,-8,36
+5,Waluigi,-6,28
+5,Yoshi,0,29
+5,Rosalina,2,36
+5,Donkey Kong,20,20
+5,Diddy Kong,4,28
+5,Goomba,8,32
+5,Shy Guy,0,32
+5,Koopa Troopa,0,22
+5,Monty Mole,2,36
+5,Bowser,0,83
+5,Bowser Jr.,0,33
+5,Boo,0,66
+5,Hammer Bro.,3,13
+5,Dry Bones,0,40
+5,Pom Pom,0,34
+6,Mario,0,30
+6,Luigi,0,29
+6,Peach,0,34
+6,Daisy,0,32
+6,Wario,-10,30
+6,Waluigi,-3,35
+6,Yoshi,0,32
+6,Rosalina,12,18
+6,Donkey Kong,0,10
+6,Diddy Kong,4,42
+6,Goomba,10,20
+6,Shy Guy,0,36
+6,Koopa Troopa,0,55
+6,Monty Mole,3,31
+6,Bowser,-9,54
+6,Bowser Jr.,0,38
+6,Boo,-6,41
+6,Hammer Bro.,6,28
+6,Dry Bones,0,30
+6,Pom Pom,0,31
+7,Mario,0,34
+7,Luigi,0,46
+7,Peach,0,48
+7,Daisy,0,35
+7,Wario,-6,42
+7,Waluigi,-6,38
+7,Yoshi,0,26
+7,Rosalina,6,42
+7,Donkey Kong,5,30
+7,Diddy Kong,6,21
+7,Goomba,2,36
+7,Shy Guy,0,24
+7,Koopa Troopa,0,32
+7,Monty Mole,2,41
+7,Bowser,-15,45
+7,Bowser Jr.,0,49
+7,Boo,-4,54
+7,Hammer Bro.,3,21
+7,Dry Bones,0,40
+7,Pom Pom,0,32
+8,Mario,0,41
+8,Luigi,0,29
+8,Peach,0,26
+8,Daisy,0,35
+8,Wario,-6,42
+8,Waluigi,0,40
+8,Yoshi,0,43
+8,Rosalina,10,17
+8,Donkey Kong,10,30
+8,Diddy Kong,4,14
+8,Goomba,6,30
+8,Shy Guy,0,32
+8,Koopa Troopa,0,53
+8,Monty Mole,1,30
+8,Bowser,0,45
+8,Bowser Jr.,0,38
+8,Boo,-4,50
+8,Hammer Bro.,6,24
+8,Dry Bones,0,35
+8,Pom Pom,0,40
+9,Mario,0,40
+9,Luigi,0,43
+9,Peach,0,40
+9,Daisy,0,32
+9,Wario,-2,54
+9,Waluigi,-6,30
+9,Yoshi,0,45
+9,Rosalina,8,36
+9,Donkey Kong,0,20
+9,Diddy Kong,2,28
+9,Goomba,6,28
+9,Shy Guy,0,32
+9,Koopa Troopa,0,27
+9,Monty Mole,4,27
+9,Bowser,-9,32
+9,Bowser Jr.,0,37
+9,Boo,-8,34
+9,Hammer Bro.,0,30
+9,Dry Bones,0,35
+9,Pom Pom,0,34
+10,Mario,0,38
+10,Luigi,0,43
+10,Peach,0,22
+10,Daisy,0,34
+10,Wario,-10,30
+10,Waluigi,0,24
+10,Yoshi,0,35
+10,Rosalina,12,13
+10,Donkey Kong,5,30
+10,Diddy Kong,4,42
+10,Goomba,6,34
+10,Shy Guy,0,32
+10,Koopa Troopa,0,37
+10,Monty Mole,2,30
+10,Bowser,-6,54
+10,Bowser Jr.,0,46
+10,Boo,-6,43
+10,Hammer Bro.,6,24
+10,Dry Bones,0,35
+10,Pom Pom,0,23

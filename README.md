@@ -39,7 +39,7 @@ We can figure out the **expected value** of spaces moved for each character over
 
 Each die is 6 sided, and the roll outcomes are uniformly distributed.
 
-This means that the **expected value** of each die roll is $\frac{1}{6} * number_rolled$.
+This means that the **expected value** of each die roll is $\frac{1}{6}$ * `number_rolled`.
 
 For a single die roll
 

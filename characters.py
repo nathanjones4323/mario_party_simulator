@@ -1,6 +1,4 @@
 import pandas as pd
-import re
-import random
 
 # Read in the data
 dice_data = pd.read_html("https://miketendo64.com/2018/10/08/super-mario-party-character-dice-guide/")[0]

@@ -74,7 +74,7 @@ We can verify our simulation by checking the mean spaces moved per character for
 
 <!-- * Docker ([Docker Desktop comes with Docker](https://www.docker.com/products/docker-desktop/)) -->
 
-You see the entire statistical analysis, simulation, and plots inisde of the [Jupyter Notebook file]() or just the simulation, and plots through a few commands in the terminal.
+You see the statistical analysis, and accompanying plots inisde of the [Jupyter Notebook file](https://github.com/nathanjones4323/mario_party_simulator/blob/master/analysis_and_simulation.ipynb) or just the simulation, and plots through a few commands in the terminal.
 
 
 ## ⌨️ Usage <a name = "usage"></a>

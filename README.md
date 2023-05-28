@@ -99,7 +99,7 @@ This will take a long time to finish. I had to cap the number of turns at 10,000
 
 **Jupyter Notebook**
 
-Run the entire notebook to see inline plots of the simulation results.
+Run the entire notebook to see the statsitics implemented in Python and inline plots of results.
 
 ### Analyzing the Simulation Results
 
